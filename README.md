@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL ](https://github.com/amiramii/meet-landing-page.git)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://amiramii.github.io/meet-landing-page/)
 
 ## My process
 
